@@ -1,9 +1,9 @@
 /* Hide Application URLs */
-.AppCard_AppCardDetails__NPTM5 {
+a.AppCard_AppCardDetails__NPTM5 {
     height: 50%;
 }
 
-.AppCard_AppCardDetails__NPTM5 span {
+a.AppCard_AppCardDetails__NPTM5 span {
     display: none !important;
 }
 

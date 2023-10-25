@@ -1,9 +1,9 @@
 /* Hide Application URLs */
-a.AppCard_AppCardDetails__NPTM5 {
+AppCard_AppCardDetails__HgNoY {
     height: 50%;
 }
 
-a.AppCard_AppCardDetails__NPTM5 span {
+AppCard_AppCardDetails__HgNoY span {
     display: none !important;
 }
 
@@ -72,7 +72,7 @@ body:before {
     min-width: 0
 }
 
-.AppCard_AppCardDetails__NPTM5 {
+.AppCard_AppCardDetails__ HgNoY {
     text-overflow: ellipsis;
     overflow: hidden;
     white-space: nowrap;
